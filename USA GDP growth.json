@@ -8,6 +8,7 @@
 
   "width": 800,
   "height": 500,
+  "background": "rgba(0,0,0,0)",
 
   "data": {"url": "https://api.economicsobservatory.com/usa/gdp?vega"},
 
