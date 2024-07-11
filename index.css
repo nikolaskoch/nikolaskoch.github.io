@@ -18,7 +18,7 @@ body { /* We can style any HTML element by using its name - here we're styling t
     color: #333;
     line-height: 1.6;
     /* we want a white page, that's centered and not too wide */
-    background-color: #c6e0e4;
+    background-color:#3CD7D9;
     margin:0 auto;
     max-width: min(80vw, 1200px);
     padding-top: 60px;
@@ -27,7 +27,7 @@ body { /* We can style any HTML element by using its name - here we're styling t
   
   /* Headings */
   h1, h2, h3, h4, h5, h6 {
-    color: #dc671f;
+    color: #8863E1;
     margin-top: 24px;
     margin-bottom: 20px;
     font-weight: 600;
